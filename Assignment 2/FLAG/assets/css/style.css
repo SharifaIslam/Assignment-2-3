@@ -1,0 +1,151 @@
+*  {
+    margin: 0px;
+}
+body {
+    background-color: rgb(41, 35, 35);
+}
+p {
+   text-align: center;
+   font-style: italic;
+   color: whitesmoke;
+   text-decoration: underline;
+   margin: 30px auto 5px ;
+}
+.Bangladesh {
+    height: 300px;
+    width: 600px;
+    background-color: green;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.round  {
+    height: 250px;
+    width: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 25px auto 0px;
+}
+.blue  {
+    height: 100px;
+    width: 600px;
+    background-color: white;
+    margin: 50px auto 0px ;
+    border-top: 100px solid skyblue;
+    border-bottom: 100px solid skyblue;
+    text-align: center;
+}
+.blue img {
+    height: 90px;
+    margin: 6px;
+}
+.Colombia {
+    height: 60px;
+    width: 600px;
+    background-color: blue;
+    margin: 50px auto 0px;
+    border-top: 150px solid yellow;
+    border-bottom: 50px solid red;
+}
+.France {
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    border-left: 200px solid blue;
+    border-right: 200px solid red;
+    margin: 50px auto 0px;
+}
+.canada {
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    border-right: 150px solid red;
+    border-left: 150px solid red;
+    margin: 50px auto 0px;
+    text-align: center; 
+}
+.canada img {
+    width: 250px;
+    margin: 60px auto;
+}
+.japan {
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    margin: 50px auto 0px;
+    overflow: hidden;
+    border: 1px solid black;
+}
+.RED {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 50px auto 0px;
+}
+.Laos {
+    width: 600px;
+    height: 200px;
+    background-color: rgb(17, 17, 92);
+    border-top: 100px solid rgb(170, 10, 10);
+    border-bottom: 100px solid rgb(170, 10, 10);
+    text-align: center;
+    margin: 50px auto 0px;
+}
+.white  {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 20px auto 0px;
+}
+.wt {
+    height: 200px;
+    width: 600px;
+    background-color:rgb(204, 25, 25);
+    border-bottom: 200px solid white;
+    margin: 50px auto 0px;
+}
+.wt img {
+    height: 150px;
+    margin: 20px 10px 0px;
+}
+.denmark  {
+    height: 300px;
+    width: 600px;
+    background-color:red;
+    margin: 30px auto 0px;
+    overflow: hidden;
+}
+.w1 {
+    height: 300px;
+    width: 70px;
+    background-color: white;
+    margin: 0px 160px 0px;
+}
+.line2 {
+    width: 600px;
+    height: 70px;
+    background-color: white;
+    margin: -157px auto 0px;
+}
+.finland {
+    height: 300px;
+    width: 600px;
+    background-color:rgb(17, 17, 51);
+    margin: 50px auto 0px;
+}
+.l1 {
+    height: 140px;
+    width: 70px;
+    background-color: rgb(17, 17, 51);
+    border-left: 220px solid white;
+    border-right: 310px solid white;
+}
+.l2 {
+    height: 140px;
+    width: 70px;
+    background-color: rgb(17, 17, 51);
+    border-left: 220px solid white;
+    border-right: 310px solid white;
+    margin: 70px auto 0px;
+}

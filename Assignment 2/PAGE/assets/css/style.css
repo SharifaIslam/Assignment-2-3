@@ -1,0 +1,77 @@
+*   {
+    margin: 0px;
+}
+body {
+    background-color: black;
+}
+
+.news1 {
+    width: 600px;
+    height: 850px;
+    background-color: gray;
+    margin: 50px 0px 0px;
+    padding: 50px;
+    float: left;
+}
+.news1 hr {
+    color: rgb(236, 218, 218);
+}  
+.news1 h1  {
+    color:rgb(85, 5, 5);
+    text-align: center;
+    font-family: Arial Rounded MT Bold;
+    font-size: 55px;
+    text-transform: capitalize;
+}
+.news1 h3 {
+    color: rgb(87, 50, 6);
+    text-align: center;
+    font-style: italic;
+}
+.news1 h5 {
+    color: rgb(66, 66, 9);
+    
+}
+
+.news1 img {
+     width: 550px;
+}
+.news1 p {
+    text-indent: 100px;
+    color: rgb(7, 7, 59);
+    font-style: italic;
+}
+
+.news1 span:nth-child(1) {
+    font-weight: bolder;
+}
+
+.news2 {
+    background-color: cadetblue;
+    width: 42%;
+    text-align: justify;
+    padding: 40px;
+    float: left;
+    margin-top: 250px;
+    margin-left: 35px;
+}
+.news2 hr {
+    color: rgb(241, 224, 224);
+}
+
+.news2 h2 {
+    font-size: 50px;
+    margin: 0px 0px 0px;
+    text-transform: capitalize;
+    font-family: Forte;
+    color: rgb(56, 38, 14);
+}
+.news2 img {
+    width: 450px;
+    margin: 20px 110px 0px;
+}
+.news2 p {
+    text-indent: 40px;
+    color: rgb(44, 29, 80);
+    font-style: italic;
+}
